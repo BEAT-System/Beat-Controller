@@ -1,0 +1,21 @@
+[submodule "lib/WiFiNINA"]
+	path = lib/WiFiNINA
+	url = https://github.com/arduino-libraries/WiFiNINA
+[submodule "lib/SerialCom"]
+	path = lib/SerialCom
+	url = https://github.com/BEAT-System/SerialCom
+[submodule "lib/VentiData"]
+	path = lib/VentiData
+	url = https://github.com/BEAT-System/VentiData
+[submodule "lib/LCDMenu"]
+	path = lib/LCDMenu
+	url = https://github.com/BEAT-System/LCDMenu
+[submodule "lib/LiquidCrystal_I2C"]
+	path = lib/LiquidCrystal_I2C
+	url = https://github.com/johnrickman/LiquidCrystal_I2C
+[submodule "lib/Beat-Wifi"]
+	path = lib/Beat-Wifi
+	url = https://github.com/BEAT-System/Beat-Wifi
+[submodule "lib/Beat-Panel"]
+	path = lib/Beat-Panel
+	url = https://github.com/BEAT-System/Beat-Panel
